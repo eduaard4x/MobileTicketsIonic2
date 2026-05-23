@@ -9,6 +9,18 @@ Aplicação mobile desenvolvida em Ionic para gerenciamento de filas e senhas em
 - Controle de filas
 - Painel de chamadas
 
+
+## Filas
+
+![Filas](images/fila.png)
+
+---
+
+## Painel
+
+![Painel](images/painel.png)
+
+
 ## Tecnologias
 - Ionic
 - Angular
